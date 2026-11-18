@@ -185,10 +185,3 @@ Every notebook includes its executed outputs, so you can review results directly
 The full capstone walkthrough is in [`Final_Project/README.md`](Final_Project/README.md).
 
 ---
-
-## Contact
-
-I'm looking for **internships and full-time roles in data analytics, data engineering, business intelligence, and machine learning**. I'm happy to walk through any of these projects in detail.
-
-- GitHub: [github.com/Niharika-Rai](https://github.com/Niharika-Rai)
-- LinkedIn: *add your LinkedIn URL here*
